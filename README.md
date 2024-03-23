@@ -11,3 +11,7 @@
 <img alt="GitHub" src="https://img.shields.io/github/license/fanmingming/live?style=flat-square">
 </p>
 
+
+所有播放源均收集于互联网，仅供测试研究使用，不得商用。
+
+
